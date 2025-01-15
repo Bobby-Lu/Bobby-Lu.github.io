@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc in the research group, Stochastics, at the national research institute for mathematics and computer science in the Netherlands (CWI, Amsterdam). Before that, I obtained my Ph.D. in Statistics from University of Twente, under the supervision of Prof. dr. [Marie-Colette van Lieshout](https://homepages.cwi.nl/~colette/).
+I am currently a postdoc researcher in the research group, Stochastics, at the national research institute for mathematics and computer science in the Netherlands (CWI, Amsterdam). Before that, I obtained my Ph.D. in Statistics from University of Twente, under the supervision of Prof. dr. [Marie-Colette van Lieshout](https://homepages.cwi.nl/~colette/).
 
 **Markdown generator**
 
