@@ -26,5 +26,5 @@ Education
 
 Research Visits
 ------
-- The Chinese university of Hong Kong (Prof. dr. [Yongtao Guan](https://sds.cuhk.edu.cn/en/teacher/1038), spatial point process modelling), Feb 2024 - Apr 2024.
+- The Chinese University of Hong Kong, Prof. dr. [Yongtao Guan](https://sds.cuhk.edu.cn/en/teacher/1038), on spatial point process modelling, Feb 2024 - Apr 2024.
 
