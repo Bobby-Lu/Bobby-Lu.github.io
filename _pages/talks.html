@@ -1,33 +1,52 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<div>
+  <strong style="font-size: 26px; font-weight: bold;">Talks:</strong>
+</div>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<div class="talk">
+  <ol>
+    <li>
+      Bayesian inference for independent cluster point processes (invited), IMS International Conference on Statistics and Data Science, Nice France (Dec 2024,
+      <a href="https://sites.google.com/view/ims-icsds2024/">
+      link
+      </a>).
+    </li>
+    
+    <li>
+      Bayesian inference for independent cluster point processes (with 
+      <a href="https://homepages.cwi.nl/~colette/">Marie-Colette van Lieshout</a>).
+    </li>
+  </ol>
+</div>
 
-{% endif %}
+<div>
+  <strong style="font-size: 26px; font-weight: bold;">Posters:</strong>
+</div>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="publication">
+  <ol>
+    <li>
+      Lu, C., Guan, Y., Lieshout, M. N. M. van & Xu, G. (2024),
+      `<a href="https://arxiv.org/abs/2401.17966">
+        XGBoostPP: Tree-based estimation of point process intensity functions
+      </a>',
+      submitted.
+    </li>
+    
+    <li>
+      Lieshout, M. N. M. van (*) & Lu, C. (*) (2022),
+      `<a href="https://arxiv.org/abs/2208.12080">
+        Infill asymptotics for logistic regression estimators for spatio-temporal point processes
+      </a>',
+      submitted. (*: equal contributions)
+    </li>
+  </ol>
+</div>
 
----
-layout: archive
-title: "Talks and presentations"
-permalink: /talks/
-author_profile: true
----
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<
