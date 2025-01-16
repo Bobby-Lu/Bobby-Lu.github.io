@@ -29,6 +29,4 @@ Research Visits
 
 Language Proficiency
 ------
-- Mandarin: native.
-- English: C2-level.
-- Dutch: A2-level.
+Mandarin: native; English: C2-level; Dutch: A2-level.
