@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc researcher with the group, [Stochastics](https://www.cwi.nl/en/groups/stochastics/), at the national research institute for mathematics and computer science in the Netherlands (CWI, Amsterdam). I am supported by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu). Before that, I obtained my Ph.D. in Statistics from University of Twente, under the supervision of Prof. dr. [Marie-Colette van Lieshout](https://homepages.cwi.nl/~colette/).
+I am currently a postdoc researcher with the group, [Stochastics](https://www.cwi.nl/en/groups/stochastics/), at [the national research institute for mathematics and computer science in the Netherlands](https://www.cwi.nl/en/) (CWI, Amsterdam). I am supported by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu). Before that, I obtained my Ph.D. in Statistics from University of Twente, under the supervision of Prof. dr. [Marie-Colette van Lieshout](https://homepages.cwi.nl/~colette/).
 
 
 Research Interests
