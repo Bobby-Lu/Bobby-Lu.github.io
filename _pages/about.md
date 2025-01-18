@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc researcher with the group, [Stochastics](https://www.cwi.nl/en/groups/stochastics/), at [National Research Institute for Mathematics and Computer Science in the Netherlands](https://www.cwi.nl/en/) (CWI, Amsterdam). I am supported by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu). Before that, I obtained my Ph.D. in Statistics from University of Twente, under the supervision of Prof. dr. [Marie-Colette van Lieshout](https://homepages.cwi.nl/~colette/).
+I am currently a postdoc researcher with the group, [Stochastics](https://www.cwi.nl/en/groups/stochastics/), at [National Research Institute for Mathematics and Computer Science in the Netherlands](https://www.cwi.nl/en/) (CWI, Amsterdam). I am supported by [European Research Consortium for Informatics and Mathematics](https://www.ercim.eu). Before that, I obtained my Ph.D. in Statistics from University of Twente, under the supervision of prof. dr. [Marie-Colette van Lieshout](https://homepages.cwi.nl/~colette/).
 
 
 Research Interests
@@ -24,7 +24,7 @@ Education
 
 Research Visits
 ------
-- The Chinese University of Hong Kong, Prof. dr. [Yongtao Guan](https://sds.cuhk.edu.cn/en/teacher/1038), on spatial point process modelling, Feb 2024 - Apr 2024.
+- The Chinese University of Hong Kong, prof. dr. [Yongtao Guan](https://sds.cuhk.edu.cn/en/teacher/1038), on spatial point process modelling, Feb 2024 - Apr 2024.
 
 
 Language Proficiency
