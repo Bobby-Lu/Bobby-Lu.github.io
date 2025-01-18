@@ -18,8 +18,8 @@ Spatial Statistics, Point Processes, Machine (Deep) Learning, Spatio-temporal Mo
 Education
 ------
 - Ph.D. in Statistics, University of Twente, Sep 2020 - Feb 2025.
-- M.S. in Computer Science, University of Twente, Sep 2018 - Sep 2020.
-- B.S. in Automation (Machine Learning), Northwestern Polytechnical University, Sep 2015 - Sep 2019.
+- M.S. in Computer Science, University of Twente, Sep 2018 - Aug 2020.
+- B.S. in Automation (Machine Learning), Northwestern Polytechnical University, Sep 2015 - Jun 2019.
 
 
 Research Visits
