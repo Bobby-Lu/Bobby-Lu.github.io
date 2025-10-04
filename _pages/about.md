@@ -27,6 +27,11 @@ Research Visits
 - The Chinese University of Hong Kong, prof. dr. [Yongtao Guan](https://sds.cuhk.edu.cn/en/teacher/1038), on spatial point process modelling, Feb 2024 - Apr 2024.
 
 
+Review Services
+------
+Annals of Applied Statistics, Biometrics, Computational Statistics \& Data Analysis, Spatial Statistics.
+
+
 Language Proficiency
 ------
 Mandarin: native; English: C2-level; Dutch: A2-level.
