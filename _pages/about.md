@@ -29,7 +29,7 @@ Research Visits
 
 Review Services
 ------
-Annals of Applied Statistics, Biometrics, Computational Statistics \& Data Analysis, Spatial Statistics.
+Annals of Applied Statistics, Biometrics, Computational Statistics & Data Analysis, Spatial Statistics.
 
 
 Language Proficiency
